@@ -30,7 +30,8 @@ This project still in development currently isn't finish but pretend to be a blo
   - Categories
   - Images
 
-![entities_relationship.png](..%2F..%2F..%2F..%2F..%2FDesktop%2Fentities_relationship.png)
+![entities_relationship](https://user-images.githubusercontent.com/106081002/213295541-2261f458-c896-4ab9-a4cf-933d8390a2ef.png)
+
 
 ## The frontend
 
@@ -38,7 +39,7 @@ This project still in development currently isn't finish but pretend to be a blo
 - The site would have three columns for news with it's images.
 - And a footer where the Privacy policy, cookies policy and contact form link would be next to some social networks and other ways of contact would be there.
 
-![frontend.png](..%2F..%2F..%2F..%2F..%2FDesktop%2Ffrontend.png)
+![frontend](https://user-images.githubusercontent.com/106081002/213295504-ce4372a6-f147-4d63-be97-eca645664db3.png)
 
 
 ## Thanks in advance for your time!
