@@ -6,7 +6,7 @@ This project still in development currently isn't finish but pretend to be a blo
 
 ## Stack
 
-- PHP 8.1 
+- PHP 8.2 
 - PHP extensions intl and OPcache
 - Symfony 6.2
 - Bootstrap 5.3
